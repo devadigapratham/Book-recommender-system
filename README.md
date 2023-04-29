@@ -1,2 +1,5 @@
 # Book-recommender-system
-Basic Book Recommendation System using Machine Learning and HTML CSS . Data set for the books can be downloaded here : https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset     . After downloading the dataset, it has to be converted to a .pkl file and then added to this file so as to be able to use the recommender system I made. 
+
+This is a basic book recommendation system developed using machine learning algorithms and HTML/CSS for the web interface. To build this system, I used the book recommendation dataset available for download at https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset.
+
+To use this recommendation system, the downloaded dataset must first be converted to a .pkl file and added to the project files. This will enable the recommender system to access and analyze the data effectively.
